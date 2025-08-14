@@ -6,7 +6,7 @@
 
 `pip install python-telegram-bot`
 
-Отредактируйте "config.txt"
-TOKEN = "Ваш токен"
+Отредактируйте | config.txt |
+- TOKEN = "Ваш токен"
 
 # Требует доработки ^⁠_⁠^ 
