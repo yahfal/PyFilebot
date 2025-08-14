@@ -1,0 +1,2 @@
+TOKEN = "Ваш токен"
+ROOT_PATH = "./files"
