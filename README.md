@@ -1,3 +1,3 @@
 Требуется установить библиотеку
 
-pip install python-telegram-bot
+<h6>pip install python-telegram-bot</h6>
